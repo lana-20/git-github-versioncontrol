@@ -3,7 +3,7 @@
 
  - git init
 
- - echo "# my_readme_file" >> README.md
+ - echo "# repo_name" >> README.md
 
  - git add .
 
