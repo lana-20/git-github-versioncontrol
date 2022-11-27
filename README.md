@@ -17,4 +17,15 @@
 
  - git push origin main
 
-🔗[Link to git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+
+
+----------
+
+🔗[Git Commands from Atlassian](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+
+🔗[Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
+
+🔗[Git Merge vs Rebase](https://medium.com/nerd-for-tech/git-merge-vs-rebase)
+
+🔗[How To Structure Your Git Branching Strategy — By A Data Engineer](https://towardsdatascience.com/how-to-structure-your-git-branching-strategy-by-a-data-engineer-45ff96857bb)
+
