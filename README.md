@@ -58,6 +58,13 @@ The QA/SDET team uses this __test__ branch to test the feature. Once testers mak
 
 This is an ideal main structure of my branches.
 
+The __dev__ branch is where most of the interesting things happen, where I add new features.
+
+<img src="https://user-images.githubusercontent.com/70295997/204190181-33050aa3-f78f-438d-b804-7bafcfc8630a.png" width=700/>
+
+It may not be the case that I add those features directly to the __dev__ branch. But I may also create branches that eventually merge into the __dev__ branch (eg., feature-1, feature-2, etc.).
+In some scenarios, this may happen in the __test__ branch instead, although it's less commmon. Eg., to quickly fix a bug or add a feature, after I've already merged from the __dev__ branch to the __test__ branch.
+A more common scenario is when I merge directly from the __dev__ branch into the __test__ branch, once I have added some features to the __dev__ branch and ready for them to be tested.
 
 
 ----------
