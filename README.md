@@ -38,6 +38,8 @@
 - any document, like a PDF file
 - no limit on what I can track with Git - any type of file
 
+### Why to Use Version Control? How Do Dev Teams Use Version Control?
+![image](https://user-images.githubusercontent.com/70295997/204178393-db4ac551-50f4-4a76-bf45-c977013b6fca.png)
 
 
 ----------
