@@ -18,6 +18,25 @@
  - git remote add origin https://github.com/user-name/repo_name.git
 
  - git push origin main
+----------
+
+### What is Version Control / Revision Control / Source Control?
+
+- management of changes made to documents
+- is not limited to tracking changes or versions, it can contain a bunch of information about who made those changes, often called *blame* (can blame bugs on someone)
+- may contain information about when the change was made and what the actual changes were, down to every single line in a particular document
+
+### Why is Version Control So Important?
+
+1. keeping track of changes
+2. ability to go back to a previous working version
+3. easily adding someone's work
+
+### Where Can I Use Git Version Control?
+
+- with any code file - JS, CSS, Java, Python, etc.
+- any document, like a PDF file
+- no limit on what I can track with Git - any type of file
 
 
 
