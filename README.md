@@ -46,13 +46,13 @@ The reason why a good branch structure is so important is because it enables me 
 
 ### How to Add New Code?
 
-<img src="https://user-images.githubusercontent.com/70295997/204184054-63308aa8-5891-46f7-a3fc-75069be294cf.png" width=600/>
+<img src="https://user-images.githubusercontent.com/70295997/204187411-a1e126b3-3515-4ebe-8b58-7331523499d1.png" width=900/>
 
 Essentially, I have a __master__ branch, which is created by default when I initialize my Git repository. It's the __master__ branch where I keep my _working version_. I rarely make any commits into this __master__ branch.
 
 Instead, I have a __test__ branch. It is this branch, from which I send commits to the __master__, but only after I have tested that new version. In the __test__ branch I must be entirely sure that this version is working, then I send it to the __master__.
 
-Even before the __test__ branc, I hav the __dev__ branch where I make most of the direct commits. I can create a new feature and add it inside of the __dev__ branch. Eventually, when it's ready to be tested, I send it to the __test__ branch.
+Even before the __test__ branc, I have the __dev__ branch where I make most of the direct commits. I can create a new feature and add it inside of the __dev__ branch. Eventually, when it's ready tho be tested, I send it to the __test__ branch.
 
 The QA/SDET team uses this __test__ branch to test the feature. Once testers make sure that it works, they send it to the __master__.
 
