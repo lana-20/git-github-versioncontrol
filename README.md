@@ -42,6 +42,8 @@
 
 ----------
 
+🔗[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 🔗[Git Commands from Atlassian](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
 🔗[Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
@@ -50,3 +52,10 @@
 
 🔗[How To Structure Your Git Branching Strategy — By A Data Engineer](https://towardsdatascience.com/how-to-structure-your-git-branching-strategy-by-a-data-engineer-45ff96857bb)
 
+🔗[Git Undo Merge – How to Revert the Last Merge Commit in Git](https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/)
+
+🔗[Git diff Command – How to Compare Changes in Your Code](https://www.freecodecamp.org/news/git-diff-command/)
+
+🔗[How to Undo Pushed Commits with Git](https://dev.to/github/how-to-undo-pushed-commits-with-git-2pe6)
+
+🔗[How Do I Resolve Merge Conflicts?](https://dev.to/github/how-do-i-resolve-merge-conflicts-5438)
