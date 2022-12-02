@@ -66,8 +66,17 @@ It may not be the case that I add those features directly to the __dev__ branch.
 In some scenarios, this may happen in the __test__ branch instead, although it's less commmon. Eg., to quickly fix a bug or add a feature, after I've already merged from the __dev__ branch to the __test__ branch.
 A more common scenario is when I merge directly from the __dev__ branch into the __test__ branch, once I have added some features to the __dev__ branch and ready for them to be tested.
 
+### What's the ifference between git and GitHub?
+
+__git__ is a local VCS software that enables developers to save snapshots of their projects over time. It’s generally best for individual use. 
+
+__GitHub__ is a web-based platform that incorporates git’s version control features so they can be used collaboratively.
 
 ----------
+
+🔗[Difference Between Git and GitHub](https://www.geeksforgeeks.org/difference-between-git-and-github/)
+
+🔗[Git vs Github: What’s the Difference and How to Get Started with Both](https://kinsta.com/knowledgebase/git-vs-github/)
 
 🔗[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
