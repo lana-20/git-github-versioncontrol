@@ -1,8 +1,8 @@
-### git, GitHub, Version Control
+## <img src="https://user-images.githubusercontent.com/70295997/205208100-c24089a2-6c0c-4ab2-8dd0-e75ceaff9be6.png" width=50/> git, GitHub, Version Control
 
+______
 
-
-## <img src="https://user-images.githubusercontent.com/70295997/204166483-b49b4645-9088-481c-bea2-a8dab2224150.png" width=30/> Common Git Commands (for newly created repositories)
+### <img src="https://user-images.githubusercontent.com/70295997/204166483-b49b4645-9088-481c-bea2-a8dab2224150.png" width=30/> Common Git Commands (for newly created repositories)
 
  - git init
 
